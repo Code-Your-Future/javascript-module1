@@ -1,1 +1,1 @@
-# javascript-module1
+# JavaScript Module 1
